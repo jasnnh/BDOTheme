@@ -5,3 +5,5 @@ This is a custom website design by me Jason, i just did this for fun for a game 
 HTML, PHP, CSS, jQuery, & Javascript.
 
 Take a look at Design.png file to see how the page looks like.
+
+![Screenshot](https://github.com/jasnnh/BDOTheme/blob/master/Desgin.PNG)
